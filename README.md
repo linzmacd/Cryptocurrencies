@@ -1,4 +1,4 @@
-# Cryptocurrencies Analysis
+# Cryptocurrency Analysis
 
 ## Purpose
 
